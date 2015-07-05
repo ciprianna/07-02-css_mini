@@ -12,3 +12,13 @@ h1 {
 .story_box {
   width: 250px;
 }
+
+.by {
+  display: inline;
+  color: slategray;
+  font-size: 11pt;
+}
+
+.author {
+  text-transform: uppercase;
+}
