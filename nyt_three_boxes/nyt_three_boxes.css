@@ -1,0 +1,21 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+h1 {
+  font-size: 16pt;
+}
+
+.three_sections {
+  width: 750px;
+}
+
+.section {
+  width: 250px;
+  float: left;
+  border-right: solid lightgray 1px;
+}
