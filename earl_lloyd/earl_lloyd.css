@@ -7,22 +7,24 @@ html {
 }
 
 h1 {
-  font-size: 20pt;
-  margin-bottom: 5px;
+  font-size: 11pt;
+  margin-bottom: 0px;
 }
 
 p {
-  font-size: 14pt;
+  font-size: 10pt;
+  margin-top: 2px;
+  line-height: 1.4;
 }
 
 .story_box {
-  width: 700px;
+  width: 370px;
 }
 
 .by {
   display: inline;
   color: slategray;
-  font-size: 12pt;
+  font-size: 8pt;
 }
 
 .author {
@@ -32,10 +34,12 @@ p {
 .time {
   display: inline;
   font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
-  font-size: 11pt;
+  font-size: 8pt;
+  color: darkred;
 }
 
 .right_image {
   float: right;
-  width: 25%;
+  margin-left: 5px;
+  margin-top: 5px;
 }
