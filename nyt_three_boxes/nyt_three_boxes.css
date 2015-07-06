@@ -7,11 +7,17 @@ html {
 }
 
 h1 {
-  font-size: 16pt;
+  font-size: 12pt;
+}
+
+p {
+  font-size: 10pt;
 }
 
 .three_sections {
-  width: 800px;
+  width: 600px;
+  border-bottom: solid 1px;
+  padding-bottom: 10px;
 }
 
 .section {
