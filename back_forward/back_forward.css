@@ -6,8 +6,16 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 3px;
+}
+
 img {
   float: left;
-  width: 20px;
-  margin: 10px;
+  margin: 2px;
+}
+
+.right {
+  position: relative;
+  top: 1px;
 }
